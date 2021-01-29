@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Reko\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Reko\\.nuget\\packages"
+    ]
+  }
+}
